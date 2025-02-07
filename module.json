@@ -5,8 +5,8 @@
   
   "version": "0.0.4",
   "compatibility": {
-    "minimum": "11",
-    "verified": "11"
+    "minimum": "9",
+    "verified": "12"
   },
   
   "relationships": {
