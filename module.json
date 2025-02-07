@@ -40,7 +40,7 @@
       "path": "lang/pt-BR.json"
     }
   ],
-  "url": "",
-  "manifest": "",
-  "download": ""
+  "url": "https://github.com/rernus/castle-falkerstein",
+  "manifest": "https://raw.githubusercontent.com/rernus/castle-falkerstein/refs/heads/main/module.json",
+  "download": "https://github.com/rernus/castle-falkerstein/archive/refs/heads/main.zip"
 }
