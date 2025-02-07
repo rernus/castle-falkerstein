@@ -1,0 +1,46 @@
+{
+  "id": "castle-falkerstein",
+  "title": " - Tradução para Português (Brasil)",
+  "description": "<p>Adiciona o idioma Português (Brasil) para o sistema .</p><p>Obs. Esse módulo traduz somente os termos relacionados ao sistema Dungeon World. Esse módulo não traduz outras partes do FoundryVTT, como a interface principal.</p>",
+  
+  "version": "0.0.4",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  
+  "relationships": {
+    "systems": [
+      {
+        "id": "castle-falkerstein",
+        "type": "system"
+      }
+    ],
+    "requires": [
+      
+    ]
+  },
+  
+  "authors": [
+    {
+      "name": "Mestre",
+      "url": "",
+      "flags": {}
+    }
+  ],
+  
+  "esmodules": [
+    
+  ],
+  
+  "languages": [
+    {
+      "lang": "pt-BR",
+      "name": "Português (Brasil)",
+      "path": "lang/pt-BR.json"
+    }
+  ],
+  "url": "",
+  "manifest": "",
+  "download": ""
+}
